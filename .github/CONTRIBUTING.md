@@ -1,0 +1,18 @@
+## Contributing to Mnesiaex
+
+I welcome any and all ideas, issues and pull requests. Be sure to follow git best practices. A couple of ground rules:
+
+- All code must be formatted, when applicable.
+- All code must be documented, when applicable.
+- All code must pass static analysis/linter checks, when applicable.
+- All code must have test coverage, when applicable.
+
+Exceptions should be avoided whenever possible.
+
+## TODOs
+
+If you'd like to become a contributor to Mnesiaex, I'd love your help working on [these issues][1].
+
+*If you have any specific questions, please email randy@heroictek.com*.
+
+[1]: https://github.com/beardedeagle/mnesiaex/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
